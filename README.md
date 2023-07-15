@@ -3,3 +3,4 @@ This project is an admission inquiry system through which a student can raise a 
 in this, we have main 3 users admin, student, and counselor.
 first admin will log in and create new ids then through that student and Counselor can log in.
 The proper working and about the project with the software development steps are mentioned in the project file which will be attached here.
+The whole project is dependent on the database which is linked in the file. and the sample of the database is also detailed in the project file.
